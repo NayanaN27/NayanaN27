@@ -1,64 +1,148 @@
 # 👋 Hi, I'm Nayana Nagarajappa
 
-Applied AI/ML Engineer with 4+ years of experience building production-grade machine learning and LLM systems. Specialized in Retrieval-Augmented Generation (RAG), multimodal AI pipelines, and scalable MLOps infrastructure. Proven track record of improving model reliability, reducing inference costs, and delivering real-time AI solutions across cloud and hybrid environments.
+Software Engineer with 4+ years of experience building scalable cloud-native backend services, distributed systems, and AI-powered applications. Experienced in Java Spring Boot, Python, FastAPI, React, AWS, Docker, Kubernetes, and event-driven microservices. Passionate about building production-ready software that combines scalable backend engineering with modern AI/LLM capabilities.
 
 ---
 
-## 🌟 Skills & Technologies
+## 🚀 Tech Stack
 
-**AI/ML & LLMs:** PyTorch, TensorFlow, Scikit-learn, Generative AI, LLMs, RAG, Prompt Engineering, Fine-tuning  
-**Frameworks & Tools:** LangChain, OpenAI API, Hugging Face, FAISS, Pinecone  
-**Backend & Systems:** Django, FastAPI, REST APIs, Microservices, Distributed Systems  
-**Cloud & MLOps:** AWS, Azure, Docker, Kubernetes, CI/CD, MLflow, Airflow  
-**Languages:** Python, SQL, JavaScript, TypeScript  
-**Databases:** PostgreSQL, MongoDB  
+### Languages
+- Java
+- Python
+- JavaScript
+- TypeScript
+- SQL
+
+### Backend
+- Spring Boot
+- FastAPI
+- Django
+- REST APIs
+- Microservices
+- Event-Driven Architecture
+- JWT Authentication
+- Asynchronous Processing
+
+### Frontend
+- React
+- Next.js
+- HTML5
+- CSS3
+
+### AI & Machine Learning
+- OpenAI API
+- LLM Applications
+- Retrieval-Augmented Generation (RAG)
+- Prompt Engineering
+- FAISS Vector Database
+- BERT Embeddings
+- AI Service Integrations
+
+### Cloud & DevOps
+- AWS (EC2, S3, Lambda, DynamoDB, ECR)
+- Docker
+- Kubernetes
+- Terraform
+- Helm
+- GitHub Actions
+- CI/CD
+
+### Databases & Messaging
+- PostgreSQL
+- MySQL
+- MongoDB
+- DynamoDB
+- Redis
+- Apache Kafka
+- AWS Kinesis Video Streams
 
 ---
 
-## 💼 Work Experience
+## 💼 Professional Experience
 
-**AI/ML Engineer, VibeSea (Jan 2026 – Present, USA)**  
-- Built an AI-powered interview monitoring platform using LLMs and multimodal analysis, reducing manual review effort by 40%+  
-- Optimized LLM inference pipelines, reducing costs by 20%+ while improving reliability  
-- Evaluated GPT-4, Claude, and Gemini across accuracy, latency, and cost to guide production decisions  
+### Software Engineer Intern | VibeSea (Dec 2025 – Present)
 
-**ML Engineer, IBM (Aug 2020 – Jul 2024, India)**  
-- Built scalable ML pipelines and MLOps systems, reducing deployment time by 30–50%  
-- Developed model monitoring, validation, and rollback systems for production reliability  
-- Contributed to LLM, RAG, and generative AI initiatives for enterprise use cases  
-
----
-
-## 📂 Projects
-
-### 🔹 AI Interview Monitoring Platform
-- Built a multimodal AI system analyzing text and visual signals using LLMs  
-- Automated interview session insights and decision pipelines  
-- Improved platform reliability and scalability  
-
-### 🔹 Premagic Replica – Event Photo AI Platform
-- Designed cloud-native system handling 2K–3K images/event using AWS and Terraform  
-- Built event-driven pipelines with S3 + Lambda for scalable image processing  
-- Integrated AWS Rekognition for automated tagging and search  
+- Developed scalable backend APIs using FastAPI, SQLAlchemy, and asynchronous programming.
+- Integrated OpenAI-compatible LLM APIs with prompt orchestration, tool-calling workflows, retry logic, and provider failover.
+- Built cloud-native media processing pipelines using AWS S3, DynamoDB, and Kinesis Video Streams.
+- Automated deployments using GitHub Actions, Docker, Terraform, Amazon ECR, and EC2.
+- Developed unit and integration tests using JUnit and PyTest.
+- Implemented JWT authentication, centralized exception handling, structured logging, and reusable service components.
 
 ---
 
-## 📜 Certifications
-- AWS Certified Solutions Architect – Associate  
-- HashiCorp Terraform Associate  
+### Software Engineer | IBM (Aug 2020 – Jul 2024)
+
+- Built Java Spring Boot microservices supporting customer onboarding and payment processing.
+- Designed Kafka-based event-driven systems for asynchronous processing and audit logging.
+- Optimized application performance using Redis caching, MongoDB indexing, MySQL tuning, and JVM optimization.
+- Built large-scale data migration services using Java, Python, and Apache Airflow.
+- Containerized applications with Docker and Kubernetes and automated infrastructure using Terraform and Helm.
+- Built GitHub Actions CI/CD pipelines and production monitoring using AWS CloudWatch.
+
+---
+
+## 📂 Featured Projects
+
+### 🎯 Premagic Replica
+
+Cloud-native event photo management platform built using AWS.
+
+**Highlights**
+
+- Event-driven architecture
+- AWS Lambda
+- Amazon S3
+- Amazon Rekognition
+- Secure multi-tenant access
+- Scalable image processing
+
+---
+
+### 🤖 AI Interview Assistant
+
+Built an AI-powered backend supporting intelligent interview workflows.
+
+**Features**
+
+- OpenAI-compatible LLM integration
+- Prompt orchestration
+- Tool calling
+- Response validation
+- Provider failover
+- Production-ready AI service abstractions
+
+---
+
+### 💬 AI RAG Chatbot
+
+Developed a Retrieval-Augmented Generation chatbot using:
+
+- FAISS
+- BERT Embeddings
+- LLMs
+- REST APIs
+- React Frontend
+
+Designed for fast and accurate contextual knowledge retrieval.
 
 ---
 
 ## 🎓 Education
-**M.S. in Computer Science**  
-California State University, Chico (2024 – 2026)
+
+**M.S. Computer Science**
+
+California State University, Chico
+
+2024 – 2026
 
 ---
 
-## 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/nayana-nagaraj09/)
-- [Email](nnagarajappa027@gmail.com)
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/nayana-nagaraj09
+- 📧 Email: nayanan0279@gmail.com
 
 ---
 
-🚀 *Building scalable AI systems and real-world LLM applications*
+⭐ I'm currently interested in Backend Software Engineering, Full Stack Development, Distributed Systems, Cloud Infrastructure, and Applied AI Engineering opportunities.
